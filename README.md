@@ -1,3 +1,7 @@
+# Important: This project has been superseded by https://github.com/SSWConsulting/SSW.CleanArchitecture
+ 
+ 
+ 
  <img align="left" width="116" height="116" src="https://raw.githubusercontent.com/jasontaylordev/CleanArchitecture/main/.github/icon.png" />
  
  # Clean Architecture Solution Template
